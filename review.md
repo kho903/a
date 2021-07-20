@@ -4,7 +4,8 @@
 	1. 새로운 브랜치 만드는 법
 	- `git branch 브랜치이름`
 	2. 새로운 브랜치로 이동
-	- `git checkout 브랜치이름`
+	- `git checkout 브랜치이름` 또는
+	- `git switch 브랜치이름`
 	3. 새로운 브랜치에 리뷰받고 싶은 코드를 만들어 푸시한다.
 2. 푸시한 코드를 main 브랜치에 pull requests를 날린다.
 	- 이 때, 리뷰어를 reviewer에 등록한다.
